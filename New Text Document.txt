@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>peter kahurani web dev</title>
+  </head>
+  <body>
+    <h1>My first web page</h1>
+    <h2>Written with guidance of Moringa Prep</h2>
+    <p>This is my first web page!</p>
+    <p>Isn't it nice?</p>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>boostrap</li>
+      <li>ruby on rails</li>
+      <li>And alot more</li>
+    </ul>
+  </body>
+</html>
